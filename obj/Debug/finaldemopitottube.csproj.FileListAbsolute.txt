@@ -1,0 +1,12 @@
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\finaldemopitottube.csprojAssemblyReference.cache
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\finaldemopitottube.Properties.Resources.resources
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\finaldemopitottube.csproj.GenerateResource.cache
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\finaldemopitottube.FINALDEMOPITOTTUBE.resources
+C:\Users\TOUSIF\source\repos\finaldemopitottube\bin\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.exe.manifest
+C:\Users\TOUSIF\source\repos\finaldemopitottube\bin\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.application
+C:\Users\TOUSIF\source\repos\finaldemopitottube\bin\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.exe
+C:\Users\TOUSIF\source\repos\finaldemopitottube\bin\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.pdb
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.exe.manifest
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.application
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.exe
+C:\Users\TOUSIF\source\repos\finaldemopitottube\obj\Debug\PITOT_TUBE_DIFFERENTIAL PRESSURE_CALCULATOR.pdb
